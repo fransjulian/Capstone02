@@ -1,8 +1,6 @@
 # Capstone02
 # Analisis Pola Belanja Pelanggan Supermarket
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview)
-
 ## Daftar Isi
 - [Tentang Proyek]
 - [Struktur Repositori]
